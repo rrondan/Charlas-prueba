@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         for(int i = 0 ; i < 1000; i++){
-            numero++;
+            numero+=2;
         }
     }
 }
