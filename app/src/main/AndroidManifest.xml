@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".RichardActivity"></activity>
+        <activity android:name=".JrActivity"></activity>
+        <activity
+            android:name=".ui.login.Robando"
+            android:label="@string/title_activity_robando" />
         <activity android:name=".JoseActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
