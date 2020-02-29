@@ -10,5 +10,7 @@ public class JoseActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_jose);
+
+        //mensaje joseb
     }
 }
