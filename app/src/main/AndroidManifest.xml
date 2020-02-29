@@ -9,14 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LuansnActivity"></activity>
+        <activity android:name=".LuisAndreActivity"></activity>
+        <activity android:name=".LuansnActivity" />
         <activity android:name=".JoseActivity" />
-        <activity android:name=".RichardActivity"></activity>
-        <activity android:name=".JrActivity"></activity>
-        <activity
-            android:name=".ui.login.Robando"
-            android:label="@string/title_activity_robando" />
-        <activity android:name=".JoseActivity" />
+        <activity android:name=".RichardActivity" />
+        <activity android:name=".JrActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
